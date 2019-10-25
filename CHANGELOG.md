@@ -1,4 +1,4 @@
-# Unreleased
+# 0.2.0
 
 * Add parser to deserialize scene files
 * Add script object to manage enabling and completion of actions
